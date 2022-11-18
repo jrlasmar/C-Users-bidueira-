@@ -3,3 +3,5 @@ Arquivo no main
 Linha adicionada localmente
 
 Linha nova adicionada localmente
+
+Linha adicionada remotamente
